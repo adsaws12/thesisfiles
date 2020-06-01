@@ -1,0 +1,61 @@
+
+1.) How often do you drink pure water?(not soda, gatorade, mio, etc...)
+	a.Once a day
+   	b. 3 times a day
+	c. 5 times a day
+	d. 8 or more times a day
+
+2.) Which do you prefer?
+	a. Reusable Water Bottles
+	b. Bottled Water
+3.) Do you check the quality of the water?
+	a. Yes 
+	b. No
+4.) Is the quantity of water that you receive (from your
+main source of water) adequate?
+	a. Yes
+	b. No 
+5.) How much of water do you drink per day?
+	a. 0,5 l
+	b. 1 l
+	c. 1,5 l
+	d. 2 l
+	e. 3 l
+	f. more than 3 liters
+
+6.) Do you buy drinking water in a store?
+	a. yes
+	b. no
+	c. sometimes
+7.) Are you confident that the drinking water which you buy in a store is suitable for drinking?
+	a. yes
+	b. no
+	c.never thought about it
+	d. I don't know
+
+
+8.) How much do you spend on drinking water per week?
+	a. under 10 Lt
+	b. 10 - 30 Lt
+	c. over 30 Lt
+9.) Are you satisfied with the quality of drinking water?
+	a. yes
+	b. could be better
+	c. no
+10.) Where, do you think, water of the highest quality is found?
+	a. from wells
+	b. bottled water
+	c. from water taps
+11.) Have you analysed your drinking water quality in a laboratory?
+	a. yes
+	b. no, I don't need it because I'm satisfied with the 	quality of my drinking water
+	c. no, I can't afford it
+12.) What are you doing to improve drinking water quality?
+	a. water neutralization
+	b. using filters
+	c. replaced old pipelines with plastic ones and installed 	filters
+13.) In your opinion, who should be responsible for drinking water quality?
+	a. society at large
+	b. municipality
+	c. water suppliers
+
